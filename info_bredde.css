@@ -1,7 +1,7 @@
 .leaflet-popup-content-wrapper {
-    width: 1200px;
+    width: 400px;
 }
 
 .leaflet-popup-content {
-    width: 1170px !important;
+    width: 370px !important;
 }
