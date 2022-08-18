@@ -1,14 +1,14 @@
 .leaflet-popup-content-wrapper {
-    width: 400px;
+    width: 500px;
 }
 
 .leaflet-popup-content {
-    width: 370px !important;
+    width: 470px !important;
 }
 .leaflet-popup-content-wrapper {
-    height: 400px;
+    height: 800px;
 }
 
 .leaflet-popup-content {
-    height: 370px !important;
+    height: 770px !important;
 }
