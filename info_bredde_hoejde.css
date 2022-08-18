@@ -6,9 +6,9 @@
     width: 420px !important;
 }
 .leaflet-popup-content-wrapper {
-    height: 800px;
+    height: 600px;
 }
 
 .leaflet-popup-content {
-    height: 770px !important;
+    height: 570px !important;
 }
