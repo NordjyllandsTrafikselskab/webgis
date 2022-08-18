@@ -1,9 +1,9 @@
 .leaflet-popup-content-wrapper {
-    width: 500px;
+    width: 450px;
 }
 
 .leaflet-popup-content {
-    width: 470px !important;
+    width: 420px !important;
 }
 .leaflet-popup-content-wrapper {
     height: 800px;
