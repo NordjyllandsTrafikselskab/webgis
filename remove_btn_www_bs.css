@@ -1,6 +1,6 @@
 
 
 /* Ny Vidi */
- .embed .navbar-toggler{
+.navbar-toggler.embed{
   display:none !important;
 }
