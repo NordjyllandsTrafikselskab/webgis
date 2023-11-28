@@ -1,0 +1,14 @@
+
+
+/* Ny Vidi */
+.history-control, 
+.embed. leaflet-control-locate, 
+.embed. leaflet-control-measurements, 
+.navbar-brand, 
+#offcanvasLayerControlBtn, 
+.embed .sign-in-btn, 
+.embed .about-btn, 
+.embed .reset-btn, 
+.leaflet-control-simpleMapScreenshoter-btn, 
+.leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle) 
+{  display:none !important;}
