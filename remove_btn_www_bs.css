@@ -1,6 +1,6 @@
 
 
 /* Ny Vidi */
-.embed .leaflet-control-locate, .navbar.embed {
+.embed.leaflet-control-locate, .navbar.embed {
   display:none !important;
 }
