@@ -1,6 +1,6 @@
 
 
 /* Ny Vidi */
-.navbar-toggler.embed, .embed .sign-in-btn, .embed .about-btn, .embed .reset-btn{
+.embed .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle), .navbar-toggler.embed, .embed .sign-in-btn, .embed .about-btn, .embed .reset-btn{
   display:none !important;
 }
