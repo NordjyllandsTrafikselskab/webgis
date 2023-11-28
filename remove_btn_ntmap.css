@@ -1,0 +1,4 @@
+/* Ny Vidi */
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .sign-in-btn, .about-btn, .reset-btn, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle) {
+    display:none !important;
+  }
