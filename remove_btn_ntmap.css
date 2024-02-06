@@ -1,4 +1,4 @@
 /* Ny Vidi */
-.history-control, .leaflet-control-locate, .leaflet-control-measurements, .sign-in-btn, .place-search, .about-btn, .reset-btn, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle,.baselayer-drawer) {
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .sign-in-btn, .place-search, .about-btn, .reset-btn, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle,.baselayer-tool) {
     display:none !important;
   }
